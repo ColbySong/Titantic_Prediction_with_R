@@ -1,1 +1,1 @@
-# Titantic_Prediction_with_R
+# Predicting Titantic Survival with R
